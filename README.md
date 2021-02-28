@@ -69,14 +69,16 @@
 <br />
 
 ---
-[![Visits Badge](https://badges.pufler.dev/visits/LiquidisedFish/LiquidisedFish)](https://badges.pufler.dev/visits/LiquidisedFish/LiquidisedFish)
-  
+
 
 ###  GitHub Stats
-<details>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LiquidisedFish&show_icons=true&theme=chartreuse-dark" />
 
-</details>
+![Visits Badge](https://badges.pufler.dev/visits/LiquidisedFish/LiquidisedFish)
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiquidisedFish&hide=TeX&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api?username=LiquidisedFish&show_icons=true&theme=chartreuse-dark)
+
 
 
 [twitter]: https://twitter.com/liquidisedfish
