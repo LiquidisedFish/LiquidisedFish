@@ -69,11 +69,15 @@
 <br />
 
 ---
+[![Visits Badge](https://badges.pufler.dev/visits/LiquidisedFish/LiquidisedFish)](https://badges.pufler.dev/visits/LiquidisedFish/LiquidisedFish)
+  
+
 ###  GitHub Stats
 <details>
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LiquidisedFish&show_icons=true&theme=chartreuse-dark" />
 
 </details>
+
 
 [twitter]: https://twitter.com/liquidisedfish
 [instagram]: https://instagram.com/liquidisedfish
