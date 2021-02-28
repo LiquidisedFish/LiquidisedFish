@@ -16,19 +16,21 @@
 [<img src="https://spotify-github-readme.vercel.app/api/spotify" alt="Spotify" width="350" />](https://open.spotify.com/collection/tracks)
 
 
-### Connect with me:
+### How to reach me:
 
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
->[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
 
->>[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
->>>[<img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" />][leetcode]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
->>>>[<img align="left" alt="Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" />][hackerrank]
+[<img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" />][leetcode]
 
->>>>>[<img align="left" alt="Blogger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/blogger.svg" />][blogger]
+[<img align="left" alt="Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" />][hackerrank]
+
+[<img align="left" alt="Blogger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/blogger.svg" />][blogger]
 
 <br/>
 
@@ -72,7 +74,7 @@
 ---
 ###  GitHub Stats
 <details>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=LiquidisedFish&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LiquidisedFish&show_icons=true&theme=chartreuse-dark" />
 
 </details>
 
@@ -82,3 +84,4 @@
 [leetcode]:https://leetcode.com/LiquidisedFish/
 [hackerrank]:https://www.hackerrank.com/LiquidisedFish
 [blogger]:https://donotrapepeople.blogspot.com/
+[gmail]:mailto:realmanishbhardwaj@gmail.com
