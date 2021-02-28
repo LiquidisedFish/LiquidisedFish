@@ -1,5 +1,7 @@
 
-### नमस्ते 🙏 I'm Manish Bhardwaj  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="40">
+### नमस्ते 🙏 I'm Manish Bhardwaj  <img src="https://github.com/sciencepal/sciencepal/raw/master/assets/Hi.gif" width="40"> 
+
+<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="80"> 
 
 - 🔭 I’m currently working on Pentesting and ML
 - 🌱 I’m currently learning everything :laughing:
