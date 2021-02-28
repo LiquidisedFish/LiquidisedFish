@@ -1,5 +1,5 @@
 
-### नमस्ते 🙏 I'm Manish Bhardwaj  <img src="https://github.com/sciencepal/sciencepal/raw/master/assets/Hi.gif" width="40"> 
+### नमस्ते 🙏 I'm Manish Bhardwaj  <img src="https://github.com/sciencepal/sciencepal/raw/master/assets/Hi.gif" width="20"> 
 
 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="80"> 
 
