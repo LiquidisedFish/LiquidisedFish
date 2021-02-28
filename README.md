@@ -1,15 +1,12 @@
-
-### नमस्ते 🙏 I'm Manish Bhardwaj  <img src="https://github.com/sciencepal/sciencepal/raw/master/assets/Hi.gif" width="20"> 
-
-<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="80"> 
+### नमस्ते 🙏 I'm Manish Bhardwaj  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="40"> 
 
 - 🔭 I’m currently working on Pentesting and ML
 - 🌱 I’m currently learning everything :laughing:
--  👯 I’m looking to collaborate on projects  
+-  👯 I’m looking to collaborate on projects
 - 🤔 I’m looking for help with ML projects
-- 💬 Ask me about Linux and Pentesting
+- 💬 Ask me about Linux, Pentesting, Multiplayer FPS gaming
 - 🥅 Goals: Contribute more to Open Source projects :star2:
-- ⚡ Fun fact: Tequila
+- ⚡ Fun fact: Tequila 
 
 ### Spotify Playing 🎧
 
