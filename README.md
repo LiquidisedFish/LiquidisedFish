@@ -1,4 +1,5 @@
-### Hi there, I'm Manish - aka - [LiquidisedFish][linkedin] 👋
+
+### नमस्ते 🙏 I'm Manish Bhardwaj  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="40">
 
 - 🔭 I’m currently working on Pentesting and ML
 - 🌱 I’m currently learning everything :laughing:
@@ -10,7 +11,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/collection/tracks)
+[<img src="https://spotify-github-readme.vercel.app/api/spotify" alt="Spotify" width="350" />](https://open.spotify.com/collection/tracks)
 
 
 ### Connect with me:
