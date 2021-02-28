@@ -1,4 +1,3 @@
-
 ### Hi there, I'm Manish - aka - [LiquidisedFish][linkedin] 👋
 
 - 🔭 I’m currently working on Pentesting and ML
@@ -60,8 +59,8 @@
 <br />
 
 ---
-###  GitHub Stats
 <details>
+<status>GitHub Stats</status>
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=LiquidisedFish&show_icons=true&hide_border=true" />
 
 </details>
