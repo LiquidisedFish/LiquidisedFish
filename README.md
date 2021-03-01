@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on Pentesting and ML
 - 🌱 I’m currently learning everything :laughing:
--  👯 I’m looking to collaborate on projects
+- 👯 I’m looking to collaborate on projects 
 - 🤔 I’m looking for help with ML projects
-- 💬 Ask me about Linux, Pentesting, Multiplayer FPS gaming
+- 💬 Ask me about Linux, Pentesting, Multiplayer FPS Gaming, Reddit, Blockchain
 - 🥅 Goals: Contribute more to Open Source projects :star2:
 - ⚡ Fun fact: Tequila 
 
